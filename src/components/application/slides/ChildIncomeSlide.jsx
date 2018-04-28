@@ -111,7 +111,7 @@ class ChildIncomeSlide extends Component {
           <FormattedMessage
               id="app.slides.childIncomeSlide.supplementalIncome"
               description="Supplemental income"
-              defaultMessage="Supplemental Security Insurance {tooltip} or Social Security {tooltip2}"
+              defaultMessage="Supplemental Security Income {tooltip} or Social Security {tooltip2}"
               values={{
                 tooltip: <Tooltip text={tooltiptext.ssiChildren} >
                   <FormattedMessage
