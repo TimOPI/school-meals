@@ -98,7 +98,7 @@ class ChildIncomeSlide extends Component {
 
         <IncomeSource
             incomeSources={incomeSources} name="job"
-            showHourly={true} showAnnual={false}
+            showHourly={true} showAnnual={true}
         >
           <FormattedMessage
               id="app.slides.childIncomeSlide.moneyEarned"

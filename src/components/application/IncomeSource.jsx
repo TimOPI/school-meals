@@ -41,7 +41,7 @@ class IncomeSource extends Component {
           <IncomeLineItems
               incomeSource={incomeSource}
               showHourly={showHourly}
-              showAnnua={showAnnual}
+              showAnnual={showAnnual}
           />
           }
         </Form>
