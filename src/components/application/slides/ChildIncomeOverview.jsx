@@ -66,7 +66,7 @@ class ChildIncomeOverview extends Component {
             <FormattedMessage
                 id="app.slides.childIncomeOverview.socialSecurity"
                 description="Social Security"
-                defaultMessage="Supplemental Security Income {socialSecurity} benefits, if the child is disabled, or is the {beneficiary} of another person’s Social Security benefits,"
+                defaultMessage="Supplemental Security Income {socialSecurity} benefits, if the child is disabled, {beneficiary} benefits for children of a disabled, retired, or deceased parent,"
                 values={{
                   socialSecurity: <Tooltip text={tooltiptext.ssiChildren}>
                     <FormattedMessage
@@ -79,7 +79,7 @@ class ChildIncomeOverview extends Component {
                     <FormattedMessage
                         id="app.slides.childIncomeOverview.benefit"
                         description="benefit"
-                        defaultMessage="beneficiary"
+                        defaultMessage="Social Security"
                     />
                   </Tooltip>
                 }}
