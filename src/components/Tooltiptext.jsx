@@ -47,7 +47,7 @@ export const tooltiptext = {
   fdpir: <FormattedMessage
       id="tooltip.fdpir"
       description="Tooltip text explaining FDPIR."
-      defaultMessage="{fdpirFullName} ({fdpirAccronym}) is a Federal program that provides USDA foods to low-icome households, including the elderly, living on Indian reservations, and to Native American families residing in designated areas near reservations and in the State of Oklahoma."
+      defaultMessage="{fdpirFullName} ({fdpirAccronym}) is a Federal program that provides USDA foods to low-icome households, including the elderly living on Indian reservations, and to Native American families residing in designated areas near reservations and in the State of Oklahoma."
       values={{
         fdpirFullName: assistanceProgramsVar.fdpir.fullName,
         fdpirAccronym: assistanceProgramsVar.fdpir.accronym
@@ -180,7 +180,7 @@ export const tooltiptext = {
   veteranBenefits: <FormattedMessage
       id="tooltip.veteranBenefits"
       description="Tooltip text explaining veteran benefits."
-      defaultMessage="Benefits that are paid to veterans that have a service-connected disability and were not dishonorably discharged."
+      defaultMessage="Benefits that are paid to veterans who have a service-connected disability and were not dishonorably discharged."
                    />,
   workersComp: <FormattedMessage
       id="tooltip.workersComp"
@@ -245,7 +245,7 @@ export const tooltiptext = {
   ssSurvivor: <FormattedMessage
       id="tooltip.ssSurvivor"
       description="Tooltip text explaining social security survivor benefits."
-      defaultMessage="Social Security survivor benefits are monthly payments to children of a deceased parent who was retired or disabled, but worked and paid taxes into the Social Security system."
+      defaultMessage="Social Security survivor benefits are monthly payments to children of a deceased, retired, or disabled parent who worked and paid taxes into the Social Security system."
               />,
   pensionChildren: <FormattedMessage
       id="tooltip.pensionChildren"

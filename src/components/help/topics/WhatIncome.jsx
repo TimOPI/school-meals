@@ -89,14 +89,14 @@ export default class WhatIncome extends Component {
             <FormattedMessage
                 id="help.topic.WhatIncome.answer11"
                 description="Answer for the applicable income help topic."
-                defaultMessage="Income for the Self-Employed"
+                defaultMessage="Income for the self-employed"
             />
           </li>
           <li>
             <FormattedMessage
                 id="help.topic.WhatIncome.answer12"
                 description="Answer for the applicable income help topic."
-                defaultMessage="Income from Wages and Self-Employment"
+                defaultMessage="Income from wages and self-employment"
             />
           </li>
           <li>
@@ -110,7 +110,7 @@ export default class WhatIncome extends Component {
             <FormattedMessage
                 id="help.topic.WhatIncome.answer14"
                 description="Answer for the applicable income help topic."
-                defaultMessage="Projected Income for Seasonal Workers"
+                defaultMessage="Projected Income for seasonal workers"
             />
           </li>
           <li>
@@ -138,7 +138,7 @@ export default class WhatIncome extends Component {
             <FormattedMessage
                 id="help.topic.WhatIncome.answer18"
                 description="Answer for the applicable income help topic."
-                defaultMessage="Housing subsidies (not including those from federal housing programs)"
+                defaultMessage="Housing subsidies (not including those from Federal housing programs)"
             />
           </li>
           <li>
@@ -301,7 +301,7 @@ export default class WhatIncome extends Component {
             <FormattedMessage
                 id="help.topic.WhatIncome.answer41"
                 description="Answer for the applicable income help topic."
-                defaultMessage="Combat Pay when it is:"
+                defaultMessage="Combat pay when it is:"
             />
           </li>
           <ul>
@@ -370,7 +370,7 @@ export default class WhatIncome extends Component {
             <FormattedMessage
                 id="help.topic.WhatIncome.answer50"
                 description="Answer for the applicable income help topic."
-                defaultMessage="Housing subsidies from federal housing programs"
+                defaultMessage="Housing subsidies from Federal housing programs"
             />
           </li>
         </ul>

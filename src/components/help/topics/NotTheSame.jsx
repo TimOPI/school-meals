@@ -25,7 +25,7 @@ export default class NotTheSame extends Component {
             <FormattedMessage
                 id="help.topic.NotTheSame.answer2"
                 description="Answer for the Not the Same help topic."
-                defaultMessage="If you work on a seasonal basis, like in agriculture or tourism, and earn more money in some months than in other months, you may add up all your earnings for the year and divide it by twelve in order to report a monthly amount. If you expect to earn the same amount as last year, you can use your earnings from last year as the basis of your projected monthly income."
+                defaultMessage="If you work on a seasonal basis, like in agriculture or tourism, and earn more money in some months than in other months, you may want to report your income on an annual basis. If you expect to earn the same amount as last year, you can use your earnings from last year as the basis of your projected monthly income."
             />
           </li>
           <li>

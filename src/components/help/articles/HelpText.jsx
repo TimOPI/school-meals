@@ -169,7 +169,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.publicChargeBody"
       description="Help text."
-      defaultMessage="No, the non-cash benefits received through the National School Lunch Program and School Breakfast Programs are not subject to public charge consideration. In other words, you will not be deported, denied entry to the country, or denied permanent status because you apply for or receive school meal benefits."
+      defaultMessage="No, the non-cash benefits received through the National School Lunch Program and School Breakfast Program are not subject to public charge consideration. In other words, you will not be deported, denied entry to the country, or denied permanent status because you apply for or receive school meal benefits."
   />,
 // F13
   checkedTitle:
@@ -334,7 +334,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.fssaBody"
       description="Help text."
-      defaultMessage="Family Subsistence Supplemental Allowance (FSSA) is available to service members living in overseas locations that make less than 130 percent of the federal poverty line, and benefits equal the total dollars required to bring household income to that level."
+      defaultMessage="Family Subsistence Supplemental Allowance (FSSA) is available to service members living in overseas locations whose make less than 130 percent of the federal poverty line, and benefits equal the total dollars required to bring household income to that level."
   />,
 // F33
   earningsDifferencesTitle:
@@ -456,20 +456,20 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.noIncomeBody"
       description="Help text."
-      defaultMessage="You should still list these household members on your application.  Household members may not earn or receive some of the types of income we ask you to report, or they may not receive income at all. Remember your eligibility determination is based on both household income and household size. For more information on who to include in your application, see the FAQ “WHO SHOULD I INCLUDE IN MY HOUSEHOLD?”"
+      defaultMessage="You should still list these household members on your application.  Household members may not earn or receive some of the types of income we ask you to report, or they may not receive income at all. Remember, your eligibility determination is based on both household income and household size. For more information on who to include in your application, see the FAQ “WHO SHOULD I INCLUDE IN MY HOUSEHOLD?”"
   />,
 // F41
   ssnTitle:
   <FormattedMessage
       id="help.articles.helpText.ssnTitle"
       description="Help text."
-      defaultMessage="What if I do not have a Social Security number?"
+      defaultMessage="What if I do not have a Social Security Number?"
   />,
   ssnBody:
   <FormattedMessage
       id="help.articles.helpText.ssnBody"
       description="Help text."
-      defaultMessage="Don’t worry, you don’t need to have a Social Security number to receive free or reduced price benefits."
+      defaultMessage="Don’t worry, you don’t need to have a Social Security Number to receive free or reduced price meal benefits."
   />,
 // F42
   contactTitle:
@@ -575,7 +575,7 @@ export const define = {
   <FormattedMessage
       id="help.articles.helpText.cashBonusTerm"
       description="Help text."
-      defaultMessage="Cash Bonus"
+      defaultMessage="Cash bonus"
   />,
   cashBonusDef:
   <FormattedMessage
@@ -699,13 +699,13 @@ export const define = {
   <FormattedMessage
       id="help.articles.helpText.veteransBenefitsTerm"
       description="Help text."
-      defaultMessage="Verteran’s benefits"
+      defaultMessage="Veteran’s benefits"
   />,
   veteransBenefitsDef:
   <FormattedMessage
       id="help.articles.helpText.veteransBenefitsDef"
       description="Help text."
-      defaultMessage="Benefits that are paid to veterans that have a service-connected disability and were not dishonorably discharged."
+      defaultMessage="Benefits that are paid to veterans who have a service-connected disability and were not dishonorably discharged."
   />,
 // D17
   socialSecurityTerm:
@@ -810,7 +810,7 @@ export const define = {
   <FormattedMessage
       id="help.articles.helpText.ssSurvivorDef"
       description="Help text."
-      defaultMessage="Social Security survivor benefits are monthly payments to children of a deceased parent who was retired or disabled, but worked and paid taxes into the Social Security system."
+      defaultMessage="Social Security benefits are monthly payments to children of a deceased, retired, or disabled parent who worked and paid taxes into the Social Security system."
   />,
 // D26
   pensionBeneficiaryTerm:
