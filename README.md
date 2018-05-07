@@ -17,6 +17,35 @@ To run eslint:
 1. `cd node_modules/.bin`
 2. `eslint --fix --ext .js --ext .jsx "[complete file path to /src]"`
 
+## Roadmap
+```
+Welcome.jsx
+BeforeYouBegin.jsx
+Attestation.jsx
+Students.jsx
+AssistancePrograms.jsx
+Foster.jsx
+OtherPrograms.jsx
+IncomeElection.jsx
+OtherChildren.jsx
+ChildIncome.jsx
+└── ChildIncomeSlide.jsx
+Adults.jsx
+AdultIncomeOverview.jsx
+├── MilitaryIncome.jsx
+├── PublicAssistanceIncome.jsx
+├── SpousalIncome.jsx
+├── UnemploymentIncome.jsx
+├── RetirementIncome.jsx
+└── OtherIncome.jsx
+Signature.jsx
+Contact.jsx
+Demographics.jsx
+LegalStatements.jsx
+Summary.jsx
+ThankYou.jsx
+```
+
 ## Public domain
 
 As stated in [CONTRIBUTING](CONTRIBUTING.md):
