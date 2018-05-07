@@ -17,6 +17,8 @@ To run eslint:
 1. `cd node_modules/.bin`
 2. `eslint --fix --ext .js --ext .jsx "[complete file path to /src]"`
 
+To update translation file copy the altered file from `./translations` to `./docs/translations`
+
 ## Roadmap
 ```
 Welcome.jsx
