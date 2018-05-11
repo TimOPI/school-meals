@@ -334,7 +334,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.fssaBody"
       description="Help text."
-      defaultMessage="Family Subsistence Supplemental Allowance (FSSA) is available to service members living in overseas locations whose make less than 130 percent of the federal poverty line, and benefits equal the total dollars required to bring household income to that level."
+      defaultMessage="Family Subsistence Supplemental Allowance (FSSA) is available to service members living in overseas locations whose incoome is less than 130 percent of the federal poverty line, and benefits equal the total dollars required to bring household income to that level."
   />,
 // F33
   earningsDifferencesTitle:
