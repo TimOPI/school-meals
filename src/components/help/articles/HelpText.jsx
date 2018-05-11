@@ -463,13 +463,13 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.ssnTitle"
       description="Help text."
-      defaultMessage="What if I do not have a Social Security Number?"
+      defaultMessage="What if I do not have a Social Security number?"
   />,
   ssnBody:
   <FormattedMessage
       id="help.articles.helpText.ssnBody"
       description="Help text."
-      defaultMessage="Don’t worry, you don’t need to have a Social Security Number to receive free or reduced price meal benefits."
+      defaultMessage="Don’t worry, you don’t need to have a Social Security number to receive free or reduced price meal benefits."
   />,
 // F42
   contactTitle:
