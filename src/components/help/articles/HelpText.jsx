@@ -230,7 +230,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.fosterTitle"
       description="Help text."
-      defaultMessage="I adopted a foster child. Are they still eligible for free meals?"
+      defaultMessage="I adopted a foster child. Is he or she still eligible for free meals?"
   />,
   fosterBody:
   <FormattedMessage
