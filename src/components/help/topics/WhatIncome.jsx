@@ -294,7 +294,7 @@ export default class WhatIncome extends Component {
             <FormattedMessage
                 id="help.topic.WhatIncome.answer40"
                 description="Answer for the applicable income help topic."
-                defaultMessage="Military Housing Privatization Initiative"
+                defaultMessage="Military Housing Privatization Initiative (MHPI)"
             />
           </li>
           <li>
