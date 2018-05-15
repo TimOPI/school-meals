@@ -229,7 +229,7 @@ export default class WhatIncome extends Component {
             <FormattedMessage
                 id="help.topic.WhatIncome.answer31"
                 description="Answer for the applicable income help topic."
-                defaultMessage="Regular payments or withdrawals from sources such as an award, settlement, inheritance or prize winnings"
+                defaultMessage="Regular payments or withdrawals from sources such as an award, settlement, inheritance, or prize winnings"
             />
           </li>
           <li>
@@ -294,7 +294,7 @@ export default class WhatIncome extends Component {
             <FormattedMessage
                 id="help.topic.WhatIncome.answer40"
                 description="Answer for the applicable income help topic."
-                defaultMessage="Military Housing Privatization Initiative"
+                defaultMessage="Military Housing Privatization Initiative (MHPI)"
             />
           </li>
           <li>

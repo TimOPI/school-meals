@@ -230,7 +230,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.fosterTitle"
       description="Help text."
-      defaultMessage="I adopted a foster child. Are they still eligible for free meals?"
+      defaultMessage="I adopted a foster child. Is he or she still eligible for free meals?"
   />,
   fosterBody:
   <FormattedMessage
@@ -334,7 +334,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.fssaBody"
       description="Help text."
-      defaultMessage="Family Subsistence Supplemental Allowance (FSSA) is available to service members living in overseas locations whose make less than 130 percent of the federal poverty line, and benefits equal the total dollars required to bring household income to that level."
+      defaultMessage="Family Subsistence Supplemental Allowance (FSSA) is available to service members living in overseas locations whose incoome is less than 130 percent of the federal poverty line, and benefits equal the total dollars required to bring household income to that level."
   />,
 // F33
   earningsDifferencesTitle:
@@ -463,13 +463,13 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.ssnTitle"
       description="Help text."
-      defaultMessage="What if I do not have a Social Security Number?"
+      defaultMessage="What if I do not have a Social Security number?"
   />,
   ssnBody:
   <FormattedMessage
       id="help.articles.helpText.ssnBody"
       description="Help text."
-      defaultMessage="Don’t worry, you don’t need to have a Social Security Number to receive free or reduced price meal benefits."
+      defaultMessage="Don’t worry, you don’t need to have a Social Security number to receive free or reduced price meal benefits."
   />,
 // F42
   contactTitle:
@@ -836,7 +836,7 @@ export const define = {
   <FormattedMessage
       id="help.articles.helpText.annuityChildrenDef"
       description="Help text."
-      defaultMessage="A child may be the recipient of payments from an annuity.  See Help for the definition of an annuity."
+      defaultMessage="A child may be the recipient of payments from an annuity.  An annuity is a series of payments under a contract made at regular intervals over a period of more than one full year. They can be either fixed (under which you receive a definite amount) or variable (not fixed). Annuities can be purchased by individuals alone, or with the help of an employer."
   />
 
 }
