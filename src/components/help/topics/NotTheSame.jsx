@@ -32,7 +32,7 @@ export default class NotTheSame extends Component {
             <FormattedMessage
                 id="help.topic.NotTheSame.answer3"
                 description="Answer for the Not the Same help topic."
-                defaultMessage="If you receive a one-time payment, it should not be reported as current, monthly income since it is not received on a regular basis. However, if you receive a one-time payment, such as from an award, settlement, inheritance or prize winnings, and then regularly draw on that money for living expenses later on, the amount withdrawn should be reported in your application for school meal benefits."
+                defaultMessage="If you receive a one-time payment, it should not be reported as current, monthly income since it is not received on a regular basis. However, if you receive a one-time payment, such as from an award, settlement, inheritance, or prize winnings, and then regularly draw on that money for living expenses later on, the amount withdrawn should be reported in your application for school meal benefits."
             />
           </li>
           <li>
