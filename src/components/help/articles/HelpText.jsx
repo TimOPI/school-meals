@@ -836,7 +836,7 @@ export const define = {
   <FormattedMessage
       id="help.articles.helpText.annuityChildrenDef"
       description="Help text."
-      defaultMessage="A child may be the recipient of payments from an annuity.  See Help for the definition of an annuity."
+      defaultMessage="A child may be the recipient of payments from an annuity.  An annuity is a series of payments under a contract made at regular intervals over a period of more than one full year. They can be either fixed (under which you receive a definite amount) or variable (not fixed). Annuities can be purchased by individuals alone, or with the help of an employer."
   />
 
 }
