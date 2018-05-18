@@ -41,7 +41,7 @@ class MilitaryIncome extends Component {
 
           <IncomeTypeDefaultText person={person} />
 
-          <IncomeSource incomeSources={incomeSources} name="basic">
+          <IncomeSource incomeSources={incomeSources} showAnnual={true} name="basic">
             <Tooltip id="militaryBasicPay" text={tooltiptext.basicPay}>
               <FormattedMessage
                   id="app.slides.militaryIncome.basicPayTooltip"
