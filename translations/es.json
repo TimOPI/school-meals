@@ -204,7 +204,7 @@
   "app.slides.childIncomeOverview.intro": "Las siguientes preguntas son sobre {tooltip}",
   "app.slides.childIncomeOverview.sources": "Algunas fuentes comunes de ingresos de los niños son las siguientes:",
   "app.slides.childIncomeOverview.fullOrPartJob": "un trabajo de tiempo completo o medio tiempo,",
-  "app.slides.childIncomeOverview.socialSecurity": "Beneficios de Seguridad de Ingreso Suplementario {socialSecurity}, si el niño está discapacitado, beneficios de {beneficiary} para hijos de un padre discapacitado, retirado o fallecido,",
+  "app.slides.childIncomeOverview.socialSecurity": "Seguridad de Ingreso Suplementario {socialSecurity}, si el niño está discapacitado, beneficios de {beneficiary} para hijos de un padre discapacitado, retirado o fallecido,",
   "app.slides.childIncomeOverview.social": "(SSI)",
   "app.slides.childIncomeOverview.benefit": "Seguro Social",
   "app.slides.childIncomeOverview.money": "dinero recibido regularmente proveniente de la familia extendida o de amigos que no viven en el hogar, o",
