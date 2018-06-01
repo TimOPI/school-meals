@@ -210,7 +210,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.deployedBody"
       description="Help text."
-      defaultMessage="Yes. Members of the armed services who are activated or deployed are counted as household members. Any money made available by them or on their behalf for the household is included as income to the household with the exception of combat pay."
+      defaultMessage="Yes. Members of the armed services who are activated or deployed are counted as household members. Any money made available by them or on their behalf for the household is included as income to the household with the exception of Combat Pay."
   />,
 // F18
   permanentTitle:
@@ -307,7 +307,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.militaryBody"
       description="Help text."
-      defaultMessage="Your basic pay and cash bonuses must be reported as income. If you get any cash value allowances for off-base housing, food, or clothing, (including BAH), it must also be included as income. However, if your housing is part of the Military Housing Privatization Initiative, do not include your housing allowance as income. Do not include payments from the Family Subsistence Supplemental Allowance (FSSA). Any additional combat pay resulting from deployment is also excluded from income. If the service member is deployed, include only the portion that is made available by them or on their behalf to the household as income."
+      defaultMessage="Your basic pay and cash bonuses must be reported as income. If you get any cash value allowances for off-base housing, food, or clothing, (including BAH), it must also be included as income. However, if your housing is part of the Military Housing Privatization Initiative, do not include your housing allowance as income. Do not include payments from the Family Subsistence Supplemental Allowance (FSSA). Any additional Combat Pay resulting from deployment is also excluded from income. If the service member is deployed, include only the portion that is made available by them or on their behalf to the household as income."
   />,
 // F30 = ReportCombat.jsx
 // F31

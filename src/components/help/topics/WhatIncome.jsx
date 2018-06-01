@@ -301,7 +301,7 @@ export default class WhatIncome extends Component {
             <FormattedMessage
                 id="help.topic.WhatIncome.answer41"
                 description="Answer for the applicable income help topic."
-                defaultMessage="Combat pay when it is:"
+                defaultMessage="Combat Pay when it is:"
             />
           </li>
           <ul>

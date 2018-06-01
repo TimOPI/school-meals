@@ -26,7 +26,7 @@ class MilitaryIncome extends Component {
               <FormattedMessage
                   id="app.slides.militaryIncome.basicPay"
                   description="Military Pay info"
-                  defaultMessage="Military basic pay, drill pay, and cash bonuses made available to the household, as well as allowances for off-base housing, food or clothing (including BAH) are includable income sources. Do not include combat pay, Family Subsistence Supplemental Allowance (FSSA), or Military Housing Privatization Initiative (MHPI)."
+                  defaultMessage="Military basic pay, drill pay, and cash bonuses made available to the household, as well as allowances for off-base housing, food or clothing (including BAH) are includable income sources. Do not include Combat Pay, Family Subsistence Supplemental Allowance (FSSA), or Military Housing Privatization Initiative (MHPI)."
               />
             </p>
            :
@@ -34,14 +34,14 @@ class MilitaryIncome extends Component {
               <FormattedMessage
                   id="app.slides.militaryIncome.basicPayMore"
                   description="Military Pay info more"
-                  defaultMessage="Military basic pay, drill pay, cash bonuses and allowances for off-base housing, food, or clothing (including BAH) count as income for purposes of applying for school meal benefits. Do not include combat pay, Family Subsistence Supplemental Allowance (FSSA), or Military Housing Privatization Initiative (MHPI)."
+                  defaultMessage="Military basic pay, drill pay, cash bonuses and allowances for off-base housing, food, or clothing (including BAH) count as income for purposes of applying for school meal benefits. Do not include Combat Pay, Family Subsistence Supplemental Allowance (FSSA), or Military Housing Privatization Initiative (MHPI)."
               />
             </p>
           }
 
           <IncomeTypeDefaultText person={person} />
 
-          <IncomeSource incomeSources={incomeSources} name="basic">
+          <IncomeSource incomeSources={incomeSources} showAnnual={true} name="basic">
             <Tooltip id="militaryBasicPay" text={tooltiptext.basicPay}>
               <FormattedMessage
                   id="app.slides.militaryIncome.basicPayTooltip"
