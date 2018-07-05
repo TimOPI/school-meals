@@ -55,7 +55,7 @@ export const hmrPrograms = {
   },
   mckinney: {
     shortName: 'McKinney-Vento Homeless Assistance Act',
-    fullName: 'McKinney-Vento Education of Homeless Chilren and Youth Assistance Act'
+    fullName: 'McKinney-Vento Education of Homeless Children and Youth Assistance Act'
   },
   runaway: 'Runaway and Homeless Youth Act'
 }

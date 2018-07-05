@@ -169,7 +169,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.publicChargeBody"
       description="Help text."
-      defaultMessage="No, the non-cash benefits received through the National School Lunch Program and School Breakfast Programs are not subject to public charge consideration. In other words, you will not be deported, denied entry to the country, or denied permanent status because you apply for or receive school meal benefits."
+      defaultMessage="No, the non-cash benefits received through the National School Lunch Program and School Breakfast Program are not subject to public charge consideration. In other words, you will not be deported, denied entry to the country, or denied permanent status because you apply for or receive school meal benefits."
   />,
 // F13
   checkedTitle:
@@ -210,7 +210,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.deployedBody"
       description="Help text."
-      defaultMessage="Yes. Members of the armed services who are activated or deployed are counted as household members. Any money made available by them or on their behalf for the household is included as income to the household with the exception of combat pay."
+      defaultMessage="Yes. Members of the armed services who are activated or deployed are counted as household members. Any money made available by them or on their behalf for the household is included as income to the household with the exception of Combat Pay."
   />,
 // F18
   permanentTitle:
@@ -230,7 +230,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.fosterTitle"
       description="Help text."
-      defaultMessage="I adopted a foster child. Are they still eligible for free meals?"
+      defaultMessage="I adopted a foster child. Is he or she still eligible for free meals?"
   />,
   fosterBody:
   <FormattedMessage
@@ -307,7 +307,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.militaryBody"
       description="Help text."
-      defaultMessage="Your basic pay and cash bonuses must be reported as income. If you get any cash value allowances for off-base housing, food, or clothing, (including BAH), it must also be included as income. However, if your housing is part of the Military Housing Privatization Initiative, do not include your housing allowance as income. Do not include payments from the Family Subsistence Supplemental Allowance (FSSA). Any additional combat pay resulting from deployment is also excluded from income. If the service member is deployed, include only the portion that is made available by them or on their behalf to the household as income."
+      defaultMessage="Your basic pay and cash bonuses must be reported as income. If you get any cash value allowances for off-base housing, food, or clothing, (including BAH), it must also be included as income. However, if your housing is part of the Military Housing Privatization Initiative, do not include your housing allowance as income. Do not include payments from the Family Subsistence Supplemental Allowance (FSSA). Any additional Combat Pay resulting from deployment is also excluded from income. If the service member is deployed, include only the portion that is made available by them or on their behalf to the household as income."
   />,
 // F30 = ReportCombat.jsx
 // F31
@@ -334,7 +334,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.fssaBody"
       description="Help text."
-      defaultMessage="Family Subsistence Supplemental Allowance (FSSA) is available to service members living in overseas locations that make less than 130 percent of the federal poverty line, and benefits equal the total dollars required to bring household income to that level."
+      defaultMessage="Family Subsistence Supplemental Allowance (FSSA) is available to service members living in overseas locations whose income is less than 130 percent of the federal poverty line, and benefits equal the total dollars required to bring household income to that level."
   />,
 // F33
   earningsDifferencesTitle:
@@ -456,7 +456,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.noIncomeBody"
       description="Help text."
-      defaultMessage="You should still list these household members on your application.  Household members may not earn or receive some of the types of income we ask you to report, or they may not receive income at all. Remember your eligibility determination is based on both household income and household size. For more information on who to include in your application, see the FAQ “WHO SHOULD I INCLUDE IN MY HOUSEHOLD?”"
+      defaultMessage="You should still list these household members on your application.  Household members may not earn or receive some of the types of income we ask you to report, or they may not receive income at all. Remember, your eligibility determination is based on both household income and household size. For more information on who to include in your application, see the FAQ “WHO SHOULD I INCLUDE IN MY HOUSEHOLD?”"
   />,
 // F41
   ssnTitle:
@@ -469,7 +469,7 @@ export const help = {
   <FormattedMessage
       id="help.articles.helpText.ssnBody"
       description="Help text."
-      defaultMessage="Don’t worry, you don’t need to have a Social Security number to receive free or reduced price benefits."
+      defaultMessage="Don’t worry, you don’t need to have a Social Security number to receive free or reduced price meal benefits."
   />,
 // F42
   contactTitle:
@@ -575,7 +575,7 @@ export const define = {
   <FormattedMessage
       id="help.articles.helpText.cashBonusTerm"
       description="Help text."
-      defaultMessage="Cash Bonus"
+      defaultMessage="Cash bonus"
   />,
   cashBonusDef:
   <FormattedMessage
@@ -699,13 +699,13 @@ export const define = {
   <FormattedMessage
       id="help.articles.helpText.veteransBenefitsTerm"
       description="Help text."
-      defaultMessage="Verteran’s benefits"
+      defaultMessage="Veteran’s benefits"
   />,
   veteransBenefitsDef:
   <FormattedMessage
       id="help.articles.helpText.veteransBenefitsDef"
       description="Help text."
-      defaultMessage="Benefits that are paid to veterans that have a service-connected disability and were not dishonorably discharged."
+      defaultMessage="Benefits that are paid to veterans who have a service-connected disability and were not dishonorably discharged."
   />,
 // D17
   socialSecurityTerm:
@@ -810,7 +810,7 @@ export const define = {
   <FormattedMessage
       id="help.articles.helpText.ssSurvivorDef"
       description="Help text."
-      defaultMessage="Social Security survivor benefits are monthly payments to children of a deceased parent who was retired or disabled, but worked and paid taxes into the Social Security system."
+      defaultMessage="Social Security benefits are monthly payments to children of a deceased, retired, or disabled parent who worked and paid taxes into the Social Security system."
   />,
 // D26
   pensionBeneficiaryTerm:
@@ -836,7 +836,7 @@ export const define = {
   <FormattedMessage
       id="help.articles.helpText.annuityChildrenDef"
       description="Help text."
-      defaultMessage="A child may be the recipient of payments from an annuity.  See Help for the definition of an annuity."
+      defaultMessage="A child may be the recipient of payments from an annuity.  An annuity is a series of payments under a contract made at regular intervals over a period of more than one full year. They can be either fixed (under which you receive a definite amount) or variable (not fixed). Annuities can be purchased by individuals alone, or with the help of an employer."
   />
 
 }

@@ -22,7 +22,7 @@ class EmploymentIncome extends Component {
       <IncomeType {...incomeTypeProps}>
         <IncomeSource
             incomeSources={incomeSources} name="salaryWages"
-            showHourly={true} showAnnual={false}
+            showHourly={true} showAnnual={true}
         >
           <FormattedMessage
               id="app.slides.employmentIncome.salaryWages"
@@ -57,7 +57,7 @@ class EmploymentIncome extends Component {
           </Tooltip>
         </IncomeSource>
 
-        <IncomeSource incomeSources={incomeSources} showAnnual={false} name="selfEmployment">
+        <IncomeSource incomeSources={incomeSources} showAnnual={true} name="selfEmployment">
           <FormattedMessage
               id="app.slides.employmentIncome.selfEmployment"
               description="Cash bonus"
