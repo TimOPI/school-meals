@@ -83,7 +83,7 @@ class ChildIncomeSlide extends Component {
           <FormattedMessage
               id="app.slides.childIncomeSlide.childGross"
               description="Gross Income definition."
-              defaultMessage="{grossIncome}  means all money earned or received before deductions, such as income taxes, social security taxes, and insurance premiums. You should not report net income, which is the amount of money received in a pay check. Net income is total (or gross) income, minus taxes and deductions, and is commonly referred to as “take home pay”."
+              defaultMessage="{grossIncome}  means all money earned or received before deductions, such as income taxes, social security taxes, and insurance premiums. You should not report net income, which is the amount of money received in a pay check. Net income is total (or gross) income, minus taxes and deductions, and is commonly referred to as “take home pay.”"
               values={{
                 grossIncome: <dfn>
                   <FormattedMessage
@@ -98,7 +98,7 @@ class ChildIncomeSlide extends Component {
 
         <IncomeSource
             incomeSources={incomeSources} name="job"
-            showHourly={true} showAnnual={false}
+            showHourly={true} showAnnual={true}
         >
           <FormattedMessage
               id="app.slides.childIncomeSlide.moneyEarned"
@@ -111,7 +111,7 @@ class ChildIncomeSlide extends Component {
           <FormattedMessage
               id="app.slides.childIncomeSlide.supplementalIncome"
               description="Supplemental income"
-              defaultMessage="Supplemental Security Insurance {tooltip} or Social Security {tooltip2}"
+              defaultMessage="Supplemental Security Income {tooltip} or Social Security {tooltip2}"
               values={{
                 tooltip: <Tooltip text={tooltiptext.ssiChildren} >
                   <FormattedMessage

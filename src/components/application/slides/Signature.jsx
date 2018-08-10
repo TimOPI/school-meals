@@ -54,7 +54,7 @@ class Signature extends Component {
           <FormattedMessage
               id="app.slides.signature.pleaseProvide"
               description="Please Provide..."
-              defaultMessage="Please provide the last four digits of the Social Security number for the person that signed at the beginning of the application {adult}. If that person does not have a Social Security number, please check the box below labeled 'No {ssn}'."
+              defaultMessage="Please provide the last four digits of the Social Security number for the person that signed at the beginning of the application {adult}. If that person does not have a Social Security number, please check the box below labeled 'No {ssn}.'"
               values={{
                 adult: <strong>({fullName(attestor)})</strong>,
                 ssn: <abbr title="Social Security number">SSN</abbr>
